@@ -1,0 +1,4 @@
+Выполнена команда ReadCommand
+Выполнена команда ReadCommand
+Выполнена команда MatrixOperationCommand
+Выполнена команда WriteCommand
